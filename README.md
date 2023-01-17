@@ -3,7 +3,9 @@
 
 - 🌱 Atualmente estou aprendendo **Java, e Automação de testes com Cypress**
 
-- 👨‍💻 todos os meus projetos estão [https://github.com/Oseasneto/javaUdemy](https://github.com/Oseasneto/javaUdemy)
+- 👨‍💻 todos os meus projetos estão: 
+https://github.com/Oseasneto/javaUdemy/tree/master/src/main/java
+https://github.com/Oseasneto/OrangeTechBackEnd/tree/master/src/main/java/desafiosBasicos
 
 - você me acha no email **oseas.neto3@gmail.com**
 
