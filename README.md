@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java, e Automação de testes com Cypress**
 
-- 👨‍💻 todos os meus projetos estão: 
+- 👨‍💻 todos os meus projetos estão: https://github.com/Oseasneto/desafio-POO/tree/master/src/main/java
 https://github.com/Oseasneto/javaUdemy/tree/master/src/main/java
 https://github.com/Oseasneto/OrangeTechBackEnd/tree/master/src/main/java/desafiosBasicos
 
